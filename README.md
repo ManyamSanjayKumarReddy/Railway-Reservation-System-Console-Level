@@ -12,7 +12,7 @@ This repository consists of the all the works related to training sessions with 
 Clone the project and Run
 
 ```bash
-  git clone https://github.com/ManyamSanjayKumarReddy/MaRailway-Reservation-System-Console-Level.git
+  git clone https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-Console-Level.git
 ```
 
 
